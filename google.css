@@ -41,3 +41,8 @@ body {
         grid-column: col / span 4;
         grid-row: row 3;
     }
+ 
+    .f {
+        grid-column: col / span 5;
+        grid-row: row 4;
+    }
