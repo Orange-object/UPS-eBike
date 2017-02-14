@@ -24,23 +24,19 @@ body {
         grid-column: col1-start / col3-start;
         grid-row: row1-start ;
       margin: 100px ;
-      width: 100px ;
     }
     .b {
         grid-column: col3-start ;
         grid-row: row1-start / row2-end;
       margin: 100px ;
-      width: 100px ;
     }
     .c {
         grid-column: col1-start;
         grid-row: row2-start ;
       margin: 100px ;
-      width: 100px ;
     }
     .d {
         grid-column: col2-start ;
         grid-row: row2-start ;
       margin: 100px ;
-      width: 100px ;
     }
