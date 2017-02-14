@@ -23,17 +23,21 @@ body {
     .a {
         grid-column: col1-start / col3-start;
         grid-row: row1-start ;
+      padding: 20px ;
     }
     .b {
         grid-column: col3-start ;
         grid-row: row1-start / row2-end;
+      padding: 20px ;
     }
     .c {
         grid-column: col1-start;
         grid-row: row2-start ;
+      padding: 20px ;
     }
     .d {
         grid-column: col2-start ;
         grid-row: row2-start ;
-      width: 100px;
+      padding: 20px ;
+      width: 100px ;
     }
