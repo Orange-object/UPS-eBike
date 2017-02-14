@@ -35,5 +35,4 @@ body {
     .d {
         grid-column: col2-start ;
         grid-row: row2-start ;
-      width: 40px;
     }
