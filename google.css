@@ -2,7 +2,7 @@ body {
   margin: 40px;
 }
 
-.wrapper:[center]
+.wrapper:[align]
 .wrapper {
         display: grid;
     grid-gap: 10px;
