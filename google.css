@@ -20,7 +20,7 @@ body {
       
     }
 
-    .a <div align="center"> {
+<div align="center"> .a {
         grid-column: col1-start / col3-start;
         grid-row: row1-start ;
     }
