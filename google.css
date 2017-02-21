@@ -20,19 +20,19 @@ body {
       
     }
 
-<div align="center"> .a {
+    .a {
         grid-column: col1-start / col3-start;
         grid-row: row1-start ;
     }
-    .b <div align="center"> {
+    .b {
         grid-column: col3-start ;
         grid-row: row1-start / row2-end;
     }
-    .c <div align="center"> {
+    .c {
         grid-column: col1-start;
         grid-row: row2-start ;
     }
-    .d <div align="center"> {
+    .d {
         grid-column: col2-start ;
         grid-row: row2-start ;
     }
