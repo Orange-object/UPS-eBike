@@ -23,6 +23,7 @@ body {
     .a {
         grid-column: col1-start / col3-start;
         grid-row: row1-start ;
+      height: 349px;
     }
     .b {
         grid-column: col3-start ;
