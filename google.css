@@ -28,14 +28,17 @@ body {
     .b {
         grid-column: col3-start ;
         grid-row: row1-start / row2-end;
+        height: 349px;
     }
     .c {
         grid-column: col1-start;
         grid-row: row2-start ;
+        height: 349px;
     }
     .d {
         grid-column: col2-start ;
         grid-row: row2-start ;
+        height: 349px;
     }
     img .left http://image.oregonlive.com/home/olive-media/width620/img/commuting/photo/21653243-mmmain.jpg
     img .right http://image.oregonlive.com/home/olive-media/width620/img/commuting/photo/21653243-mmmain.jpg; width:500px; height:300px"
