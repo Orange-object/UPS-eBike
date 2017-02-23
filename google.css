@@ -24,7 +24,7 @@ body {
     grid-gap: 10px;
         grid-template-columns: 200px 200px 200px;
       grid-template-rows: 200px 200px 200px;
-        grid-template-areas:
+        grid-template-areas: 200px 200px 200px;
     "....... header header"
         "sidebar content content"
         "footer  footer  footer";
