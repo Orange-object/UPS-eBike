@@ -46,3 +46,36 @@ body {
   background-color: #999;
 }
     img .left http://image.oregonlive.com/home/olive-media/width620/img/commuting/photo/21653243-mmmain.jpg
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FDB813;
+}
+
+l {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FDB813;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
